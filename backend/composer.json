@@ -1,0 +1,8 @@
+{
+  "name": "your-vendor/your-project",
+  "autoload": {
+    "psr-4": {
+      "happywitch\\": "src/happywitch"
+    }
+  }
+}

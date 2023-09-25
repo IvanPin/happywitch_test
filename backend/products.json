@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Банцхаф Хайо \"Таро — хороший советчик. 24 ключа к толкованию 78 карт\" Предсказательная практика Таро",
+    "img": ".../img/2.png",
+    "description": "preview_text",
+    "price": 590
+  },
+  {
+    "id": 2,
+    "name": "Банцхаф Хайо \"Книга Таро Райдера-Уэйта.\" Гадание на таро",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 3,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 4,
+    "name": "Банцхаф Хайо \"Книга Таро Райдера-Уэйта.\" Гадание на таро",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 5,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 6,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 7,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 8,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 9,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 10,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 11,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  },
+  {
+    "id": 12,
+    "name": "Product 2",
+    "img": ".../img/2.png",
+    "description": "Description of Product 2",
+    "price": 590,
+    "old_price": 590
+  }
+]
