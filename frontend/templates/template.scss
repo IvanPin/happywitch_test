@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('font/Lato-Regular.ttf') format('truetype');
+  /* Дополнительные настройки шрифта, если необходимо */
+}
+body {
+  font-family: 'Lato', sans-serif;
+}
+.container {
+  width: 100%;
+  margin: 0 auto;
+  @media only screen and (min-width: 1200px) {
+    width: 1200px;
+  }
+}
